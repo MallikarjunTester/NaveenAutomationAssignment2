@@ -58,7 +58,7 @@ public class Base {
 	public static List<Hashtable<String, String>> testdata = objXMLReader.getDataAsList("Framework");
 	
 	// get the system Os programatically
-	
+	@BeforeSuite
 	public void determineSystemOs() {
 
 		platfromName = System.getProperty("os.name");
