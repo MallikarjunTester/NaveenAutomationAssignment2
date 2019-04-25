@@ -1,4 +1,4 @@
-# NaveenAutomationAssignment2 
+# Selenium Coding Assignment(24th April) - By Naveen AutomationLabs
 # Author : Mallikarjunaswamy
 # Date : 24/04/2019
 
